@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "Goblin",
+    "HP": 20,
+    "Damage": 5,
+    "Type": "Ground"
+  },
+  {
+    "Name": "Dragon",
+    "HP": 100,
+    "Damage": 10,
+    "Type": "Flying"
+  },
+  {
+    "Name": "Orc",
+    "HP": 30,
+    "Damage": 7,
+    "Type": "Monster"
+  },
+  {
+    "Name": "Giant",
+    "HP": 60,
+    "Damage": 15,
+    "Type": "Fighting"
+  },
+  {
+    "Name": "Golem",
+    "HP": 150,
+    "Damage": 12,
+    "Type": "Earth"
+  },
+  {
+    "Name": "Skeleton",
+    "HP": 50,
+    "Damage": 8,
+    "Type": "Undead"
+  },
+  {
+    "Name": "Vampire",
+    "HP": 80,
+    "Damage": 9,
+    "Type": "Undead"
+  },
+  {
+    "Name": "Hydra",
+    "HP": 40,
+    "Damage": 20,
+    "Type": "Water"
+  }
+]
+

@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Sword",
+    "Damage": 10,
+    "Good Type": "Ground",
+    "Bad Type": "Undead"
+  },
+  {
+    "Name": "Fire Staff",
+    "Damage": 15,
+    "Good Type": "Earth",
+    "Bad Type": "Water"
+  },
+  {
+    "Name": "Shield",
+    "Damage": 5,
+    "Good Type": "Fighting",
+    "Bad Type": "Earth"
+  },
+  {
+    "Name": "Bow",
+    "Damage": 12,
+    "Good Type": "Flying",
+    "Bad Type": "Fighting"
+  },
+  {
+    "Name": "Holy Sword",
+    "Damage": 20,
+    "Good Type": "Undead",
+    "Bad Type": "Ground"
+  }
+]
